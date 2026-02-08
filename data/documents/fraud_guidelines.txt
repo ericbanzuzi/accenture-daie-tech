@@ -1,0 +1,4 @@
+Potential fraud indicators include:
+    - High transaction frequency
+    - Unusual transaction amounts
+    - Cross-border transactions
