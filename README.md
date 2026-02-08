@@ -42,7 +42,7 @@ python features.py
 
 It runs the feature engineering logic and creates a small feature set per customer into `./data/customer_features_gold.csv`.
 
-### 3. Data Pipeline & ETL
+### 3. Simple RAG pipeline
 To run the solution use thefollowing command at the root of the project:
 ````
 python rag.py
@@ -67,4 +67,4 @@ The server runs in [http://127.0.0.1:8000/](http://127.0.0.1:8000/). The end poi
 
 ## Future directions
 
-I would invest more time into prompt engineering of the LLM. Now it sometimes uses knowledge outside of the decuments. Another thing would be to further explore the data so that the feature set for each customer could become richer and more accurate. 
+I would invest more time into prompt engineering of the LLM. Now it sometimes uses knowledge outside of the documents. Another thing would be to further explore the data so that the feature set for each customer could become richer and more accurate. 
