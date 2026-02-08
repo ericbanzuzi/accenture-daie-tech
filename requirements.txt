@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+huggingface_hub
+langchain
+faiss-cpu
+langchain-text-splitters
+langchain-huggingface 
+langchain-community 
+sentence-transformers
